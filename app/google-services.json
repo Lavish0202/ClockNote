@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "911197252600",
+    "firebase_url": "https://clocknote-6e430.firebaseio.com",
+    "project_id": "clocknote-6e430",
+    "storage_bucket": "clocknote-6e430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911197252600:android:eef7c91d5a39ee6e56440d",
+        "android_client_info": {
+          "package_name": "com.example.clocknote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911197252600-e2okfvhh9n2g3b8ug4knab0jqq5adkk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clocknote",
+            "certificate_hash": "b3f21afe44ad0f0e20c978b4456835df7c9e6206"
+          }
+        },
+        {
+          "client_id": "911197252600-p9tgiumn71jn5sbvv5ia72c48oa39us6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA30lcsTNs3ZVkyX-DjyW2lOGKmGtUUCIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911197252600-p9tgiumn71jn5sbvv5ia72c48oa39us6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
